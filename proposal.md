@@ -8,21 +8,26 @@ This exercise is designed to help you narrow the scope of your research down to 
 * Shevaughn
   
 ## Research Area(s)
-> _React_
+> _What technical topic(s) are you planning to explore through this project?_
+* _React_
 
 
 ## Inspiration
-> _Our problem we are planning to solve is we are giving the user a look at what's currently going on at the park or gym they are thinking of playing basketball at. Our web-application solves the problem of wondering what's going on the hoop scene! Our app is for the users, powered by the users! Find out what's going on on the courts around you based on live updates provided by hoopers registered for the app._
+> _Your problem statement is a concise (100 words or less) explanation of the problem that your project will address and the potential impact that the solution will have. In other words, what's "new" about this thing that you're creating and why should people care. For additional guidance, see [here](https://www.scribbr.com/research-process/problem-statement/)._
+* _Our problem we are planning to solve is we are giving the user a look at what's currently going on at the park or gym they are thinking of playing basketball at. Our web-application solves the problem of wondering what's going on the hoop scene! Our app is for the users, powered by the users! Find out what's going on on the courts around you based on live updates provided by hoopers registered for the app._
 
 ## Proposed Solution
-> _Our web-app plans to solve this by showing to the user how active the court they plan to play on is and helping find them people to play with. We plan to have a friends feature, but you will be able to use our map without having an account, but you will not be able to post._
+> _In 100 words or less, describe what you plan on building and how it addresses your selected problem? In what ways is your solution novel?_
+* _Our web-app plans to solve this by showing to the user how active the court they plan to play on is and helping find them people to play with. We plan to have a friends feature, but you will be able to use our map without having an account, but you will not be able to post._
 
 ## Anticipated Technical Challenges
-> _Storing information, the user being to update our database_
+> _What are the key technical challenges that your team will have to solve in order to ship this solution?_
+* _Storing information on the user such as Location_
 * _Implementing a friends feature_
 
 ## Supporting Research
-> _https://medium.com/hackernoon/how-to-develop-a-location-based-application-using-react-native-ce819814925d_
+> _Please include hyperlinks to blogs, research papers, and books that have helped inform your opinion so far or those that you believe will guide your research?_
+* _https://medium.com/hackernoon/how-to-develop-a-location-based-application-using-react-native-ce819814925d_
 * _https://dzone.com/articles/aspnet-core-crud-with-reactjs-and-entity-framework_
 * _https://www.asapdevelopers.com/build-a-react-native-login-app-with-node-js-backend/_
 * _https://medium.com/bingewave/creating-a-live-broadcast-web-and-mobile-app-135e451fec36_
