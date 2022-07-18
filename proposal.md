@@ -13,8 +13,7 @@ This exercise is designed to help you narrow the scope of your research down to 
 
 
 ## Inspiration
-> _Your problem statement is a concise (100 words or less) explanation of the problem that your project will address and the potential impact that the solution will have. In other words, what's "new" about this thing that you're creating and why should people care. For additional guidance, see [here](https://www.scribbr.com/research-process/problem-statement/)._
-_Our problem we are planning to solve is we are giving the user a look at what's currently going on at the park or gym they are thinking of playing basketball at. Our web-application solves the problem of wondering what's going on the hoop scene! Our app is for the users, powered by the users! Find out what's going on on the courts around you based on live updates provided by hoopers registered for the app._
+> _Our problem we are planning to solve is we are giving the user a look at what's currently going on at the park or gym they are thinking of playing basketball at. Our web-application solves the problem of wondering what's going on the hoop scene! Our app is for the users, powered by the users! Find out what's going on on the courts around you based on live updates provided by hoopers registered for the app._
 
 ## Proposed Solution
 > _In 100 words or less, describe what you plan on building and how it addresses your selected problem? In what ways is your solution novel?_
